@@ -1,6 +1,6 @@
 ## Hi, I'm Olajuwon
 
-### Fullstack Web Developer at NIIT
+### Fullstack Web Developer 
 
 - **Logo Designer**
 - **Document Editor**
