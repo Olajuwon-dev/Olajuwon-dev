@@ -4,7 +4,7 @@
 
 - **Logo Designer**
 - **Document Editor**
-- I create responsive websites using modern technologies like HTML, CSS, JavaScript, and frameworks such as React and Node.js.
+- Passionate about building web applications with HTML, CSS, JavaScript, PHP, and MySQL. Always learning and growing!.
 
 Feel free to connect with me to collaborate on exciting projects!
 
